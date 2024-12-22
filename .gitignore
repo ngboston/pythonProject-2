@@ -1,6 +1,3 @@
-.venv/**
-<<<<<<< HEAD
-=======
+*.venv
 *.xml
->>>>>>> cc23809db6bc698a34b7aad1665a97f2a2b50385
-.idea/**
+*.idea
